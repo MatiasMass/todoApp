@@ -1,0 +1,11 @@
+POST http://localhost:3004/todo/
+Content-Type: application/json
+
+{
+    "id": 456,
+    "type": "probando",
+    "icon": "http://exampple.com/2png",
+    "title": "Smith",
+    "description": "dfdkfdfndf",
+    "url": "http://example.net/project/doSomething2"
+}
